@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- APP INFO -->
+    <string name="app_name">Chomper Android</string>
+    <string name="chomperTitle">Chomper</string>
+
+
+	<!-- USER INFO -->
+    <string name="userDisplayedName">Little Chomper</string>
+    <string name="chomperCollegeTitle">University of Southern California</string>
+
+	<!-- COMMENT ON MEAL.JAVA -->
+    <string name="hintText">Your Comment will be shown here</string>
+    <string name="buttonSubmitComment">Submit Comment</string>
+</resources>
